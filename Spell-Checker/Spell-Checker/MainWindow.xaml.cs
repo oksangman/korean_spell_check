@@ -231,7 +231,7 @@ namespace Spell_Checker
         {
             if (WindowState == WindowState.Minimized)
             {
-                ShowInTaskbar = false;
+                ShowInTaskbar = true;
             }
             else
             {
